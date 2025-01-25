@@ -2,6 +2,10 @@ Zentry Website Clone
 
 This project is a Zentry website clone created using modern web technologies like React.js, TailwindCSS, and GSAP for animations. The goal of this project is to replicate the look and feel of the original Zentry website while enhancing development skills.
 
+🚀 Live Demo
+
+Live Demo Link: https://zentry-rishabhrrd4.netlify.app/
+
 🛠️ Built With
 
 React.js: A JavaScript library for building user interfaces.
